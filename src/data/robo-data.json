@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Atlas-6",
+    "rank": "Scout",
+    "power": "Plasma",
+    "hp": 80
+  },
+  {
+    "id": 2,
+    "name": "Nyx-3",
+    "rank": "Guardian",
+    "power": "Shield",
+    "hp": 90
+  }
+]

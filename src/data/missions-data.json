@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Cave sweep",
+    "objective": "Clear parasites from the eastern cave.",
+    "hp": 20,
+    "status": "open",
+    "robotId": null
+  },
+  {
+    "id": 2,
+    "name": "Signal recovery",
+    "objective": "Recover the lost relay in sector 04.",
+    "hp": 30,
+    "status": "open",
+    "robotId": null
+  },
+  {
+    "id": 3,
+    "name": "Perimeter watch",
+    "objective": "Secure the northern outpost.",
+    "hp": 10,
+    "status": "open",
+    "robotId": null
+  }
+]
